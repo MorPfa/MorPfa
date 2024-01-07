@@ -7,8 +7,8 @@
 
 <h1 align="center">Hi 👋, I'm Moritz</h1>
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/moritz-pfatteicher/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/moritz-pfatteicher/" alt="https://www.linkedin.com/in/moritz-pfatteicher/" height="30" width="90" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/mapf01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/mapf01/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/moritz-pfatteicher/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/moritz-pfatteicher/" alt="https://www.linkedin.com/in/moritz-pfatteicher/" height="30" width="90" /></a>
+<a href="https://www.leetcode.com/mapf01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/mapf01/" height="30" width="40" /></a>
 </p>
 <h3 align="center">Aspiring mobile Developer with specialization in native Android Development.</h3>
 
