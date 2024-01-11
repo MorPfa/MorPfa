@@ -17,7 +17,7 @@
 
 
 ### :man_technologist: About Me :
-I am a mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Germany.
+I am a mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Germany living in Seattle.
 
 - :telescope: I’m a recent graduate from Seattle Central College with a degree in Software Development.
 
