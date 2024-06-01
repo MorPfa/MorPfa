@@ -10,7 +10,7 @@
 <a href="https://linkedin.com/in/moritz-pfatteicher/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/moritz-pfatteicher/" alt="https://www.linkedin.com/in/moritz-pfatteicher/" height="30" width="90" /></a>
 <a href="https://www.leetcode.com/mapf01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/mapf01/" height="30" width="40" /></a>
 </p>
-<h3 align="center">Aspiring mobile Developer with specialization in native Android Development.</h3>
+<h3 align="center">Mobile Developer with specialization in native Android Development.</h3>
 
 
 ---
@@ -19,9 +19,9 @@
 ### :man_technologist: About Me :
 I am a mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Germany living in Seattle.
 
-- :telescope: I’m a recent graduate from Seattle Central College with a degree in Software Development.
+- :telescope: I graduated from Seattle Central College with a degree in Software Development.
 
-- :seedling: Aspiring mobile developer with a passion for native Android development
+- :seedling: Mobile developer with a passion for native Android development
   
 - 🔭 I’m currently working on [VibeCast](https://github.com/MorPfa/VibeCast)
 
