@@ -23,7 +23,7 @@ I am a mobile Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 
 - :seedling: Mobile developer with a passion for native Android development
   
-- 🔭 I’m currently working on [RunBuddy]([https://github.com/MorPfa/VibeCast](https://github.com/MorPfa/RunBuddy))
+- 🔭 I’m currently working on [RunBuddy](https://github.com/MorPfa/VibeCast](https://github.com/MorPfa/RunBuddy)
 
 - 👷‍♂️: In my free time, I like to build and tinker with all kinds of software and hardware. 
 
